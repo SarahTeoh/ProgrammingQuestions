@@ -1,2 +1,4 @@
-# ProgrammingQuestions
-Answer for a programming question. See README for the question.
+# Question
+Find the smallest positive number missing from an unsorted array.
+
+
